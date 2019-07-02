@@ -1,7 +1,7 @@
 # ofxHistogramMatching
 Histogram Matching for Openframeworks uing ofxCv
 
-![HMat example]( https://github.com/bemoregt/ofxHomomorphicF/blob/master/ScrShot%2012.png "HMF") 
+![HMat example]( https://github.com/bemoregt/ofxHistogramMatching/blob/master/result.png "HMat1") 
 
 ### Dependency
 - OpenFrameworks 0.10.1
