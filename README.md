@@ -4,7 +4,7 @@ Histogram Matching for Openframeworks using ofxCv
 ![HMat example]( https://github.com/bemoregt/ofxHistogramMatching/blob/master/result.png "HMat1") 
 
 ### Alogrithm
-- It uses not a PDF but a CDF of histogram. Because just CDF is one-to-one function.   
+- It uses not a PDF but a CDF of histogram. Because just CDF is one-to-one function for color converting.   
 
 ### Dependency
 - OpenFrameworks 0.10.1
