@@ -1,4 +1,4 @@
-# ofxHistogramMatching
+# wwHistogramMatching
 Histogram Matching for Openframeworks using ofxCv
 
 ![HMat example]( https://github.com/bemoregt/ofxHistogramMatching/blob/master/result.png "HMat1") 
